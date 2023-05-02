@@ -1,0 +1,17 @@
+{
+    "extensions": [
+        {
+            "builtin": "False",
+            "type": "extension",
+            "rocket_mode_compatible": "True",
+            "name": "ecbarch",
+            "description": "ecbarch",
+            "author": "Kyle Bruxvoort",
+            "author_profile": "https://kbrux.com",
+            "url": "https://github.com/ecbarch/bpg.git",
+            "website": "https://github.com/ecbarch/bpgr",
+            "image": "",
+            "dependencies": []
+        }
+    ]
+}
