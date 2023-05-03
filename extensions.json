@@ -4,12 +4,12 @@
             "builtin": "False",
             "type": "extension",
             "rocket_mode_compatible": "True",
-            "name": "ecbarch",
+            "name": "RuhsatPro",
             "description": "ecbarch",
             "author": "ecbarch",
             "author_profile": "https://ecbarch.com",
-            "url": "https://github.com/ecbarch/bpg.git",
-            "website": "https://github.com/ecbarch/bpgr",
+            "url": "https://github.com/ecbarch/_RuhsatPro.git",
+            "website": "https://github.com/ecbarch/RuhsatPro",
             "image": "",
             "dependencies": []
         }
