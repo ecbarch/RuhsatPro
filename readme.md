@@ -4,7 +4,7 @@
 
 ## Genel açıklama
 
-ECB-BPG ile ruhsat projelerinde yer alan KAKS, TAKS, arsa payı, otopark, sığınak, ağaç, kazı-dolgu hesapları ve metrekare cetveli ile kat irtifakı tabloları gereken parametreleri girerek hızlı bir şekilde oluşturulabilmektedir. ECB-BPG sayesinde uzun süren ruhsat projesi hesapları kısa sürede tamamlanıp zamandan tasarruf sağlanmaktadır.
+RuhsatPro ile ruhsat projelerinde yer alan KAKS, TAKS, arsa payı, otopark, sığınak, ağaç, kazı-dolgu hesapları ve metrekare cetveli ile kat irtifakı tabloları gereken parametreleri girerek hızlı bir şekilde oluşturulabilmektedir. ECB-BPG sayesinde uzun süren ruhsat projesi hesapları kısa sürede tamamlanıp zamandan tasarruf sağlanmaktadır.
 
 ![Untitled](ECB-BPG%20User%20Manual%208ee8d20fe2f141fab8637257040a6742/Untitled.png)
 
