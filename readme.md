@@ -1,1 +1,1 @@
-https://ecbarch.notion.site/ruhsatpro
+https://ecbarch.notion.site/ruhsatpro-revit
